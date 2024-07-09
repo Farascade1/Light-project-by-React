@@ -1,11 +1,11 @@
  import React from "react";
  import ReactDOM from "react-dom/client"
-import Light from "./Components/Light"
+import Tasbiih from "./Components/Tasbiih"
  import "./index.css"
 
  const root = document.querySelector("#root")
  ReactDOM.createRoot(root).render(
    <div>
-    <Light />
+    <Tasbiih />
    </div>
  )
